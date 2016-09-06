@@ -1,0 +1,32 @@
+body {
+	background-color: #2DC7FF;
+}
+h1 {
+	font-family:  'Montserrat' , Raleway;
+	border-bottom: 5px solid #000;
+}
+p {
+	font-family:  'Montserrat' , Raleway;
+}
+
+#about-me-wrap {
+	   background-color:  #fff;
+	   padding: 50px;
+	   width: 60%
+	   margin: 100x auto;
+	}
+
+	#profile-wrap {
+	float: left;
+	width: 40%;
+	margin-right: 10%;
+	}
+
+	#bio-wwrap {
+	 float: right;
+	 width: 50%;
+	}
+
+	.clear {
+		clear: both;
+	}
